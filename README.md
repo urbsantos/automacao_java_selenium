@@ -1,4 +1,4 @@
-#Prova técnica de automação de teste
+#Exercício de automação de teste
 
 O que você deve fazer
 Você deve criar um projeto baseado em Maven na sua IDE desenvolvimento favorita utilizando a linguagem de
